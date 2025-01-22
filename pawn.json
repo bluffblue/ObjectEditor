@@ -1,0 +1,13 @@
+{
+    "user": "bluffblue",
+    "repo": "dynamic_object_editor",
+    "entry": "test.pwn",
+    "output": "test.amx",
+    "dependencies": ["sampctl/samp-stdlib"],
+    "dev_dependencies": [],
+    "runtime": {
+        "version": "0.3.7",
+        "mode": "server",
+        "plugins": ["dynamic_object_editor"]
+    }
+}
