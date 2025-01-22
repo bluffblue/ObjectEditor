@@ -1,13 +1,13 @@
 {
-    "user": "bluffblue",
-    "repo": "dynamic_object_editor",
-    "entry": "test.pwn",
-    "output": "test.amx",
-    "dependencies": ["sampctl/samp-stdlib"],
-    "dev_dependencies": [],
-    "runtime": {
-        "version": "0.3.7",
-        "mode": "server",
-        "plugins": ["dynamic_object_editor"]
-    }
+	"user": "bluffblue",
+	"repo": "Object_Editor",
+	"tag": "0.0.1",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	],
+	"runtime": {
+		"mode": "y_testing"
+	}
 }
