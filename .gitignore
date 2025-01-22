@@ -1,0 +1,10 @@
+/target
+**/*.rs.bk
+*.amx
+*.dll
+*.so
+*.exe
+Cargo.lock
+.vscode/
+.idea/
+*.pdb
