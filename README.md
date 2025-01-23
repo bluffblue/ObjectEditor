@@ -14,7 +14,7 @@ A SA-MP plugin written in Rust for managing dynamic objects with advanced editin
 
 1. Download the latest release:
    - Windows: `dynamic_object_editor.dll`
-   - coming soon
+   - Linux: coming soon
 
 2. Copy the plugin file to your server's `plugins` folder
 
